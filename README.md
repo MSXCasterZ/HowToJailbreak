@@ -1,51 +1,63 @@
 วิธี Jailbreak IOS7.1-10.2.1
 
 Jailbreak  iOS 7.1-7.1.x
+
 http://en.7.pangu.io/
 
 
 Jailbreak  iOS 8.0-8.4 ของ TaiG ตอนนี้เว็บเข้าไม่ได้นะครับ
-taig.com
+
+http://taig.com
 
 
 Jailbreak  iOS 8.4.1 32bit 
+
 http://tihmstar.net/etasonjb/
 
 
 Jailbreak  iOS 9.0-9.1
+
 http://en.9.pangu.io/
 
 
 Jailbreak iOS 9.2 - 9.3.3 64-bit
+
 http://en.pangu.io/
 
 
 Jailbreak Home Depot  iOS 9.1-9.3.4 32bit
+
 http://wall.supplies/
 
 
 jailbreak for 9.3.5.All 32-bit
+
 https://phoenixpwn.com/ 
 
 
 jailbreak ios 10.0-10.3.3 32bit
+
 http://h3lix.tihmstar.net  !   
 
 
 Jailbreak IOS 10-10.2 64bit ยกเว้น  I7 ios ที่เจลได้ 10.1.1
+
 https://yalu.qwertyoruiop.com/ 
 
 
 Jailbreak IOS 10.2.1 64bit
+
 https://iabem97.github.io/saigon_we...
 
 
-jailbreak ios 10.0-10.3.3 64bit
+Jailbreak ios 10.0-10.3.3 64bit
+
 https://g0blin.sticktron.net/ 
 
 
-jailbreak ios 11.0-11.1.2
- https://coolstar.org/electra/ 
+Jailbreak ios 11.0-11.1.2
+
+https://coolstar.org/electra/ 
 
 
 
