@@ -1,4 +1,4 @@
-วิธี Jailbreak IOS7.1-10.2.1
+วิธี Jailbreak IOS 7.1-10.2.1
 
 Jailbreak  iOS 7.1-7.1.x
 
@@ -47,7 +47,7 @@ https://yalu.qwertyoruiop.com/
 
 Jailbreak IOS 10.2.1 64bit
 
-https://iabem97.github.io/saigon_we...
+https://iabem97.github.io/saigon_website/
 
 
 Jailbreak ios 10.0-10.3.3 64bit
