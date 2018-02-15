@@ -122,4 +122,7 @@ Serial : PDANETAPPL-CC1E-CCE6-C6E5-F33C-8E6E
 รหัสผ่านรูทไอโฟน
 
 Username : root
+
 Password : alpine 
+
+@OaTz
